@@ -16,7 +16,11 @@ class ViewController: UIViewController {
         
         print("Changed")
         print("-----")
+<<<<<<< HEAD
         print("newfile")
+=======
+        print("acbasdbcn lkas")
+>>>>>>> 49753e6b5a69db33d445955fcf90b6174a696239
     }
 
 
