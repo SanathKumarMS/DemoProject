@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         
         var name = "Sanath Kumar"
         print(name)
+        print("Changed")
     }
 
 
